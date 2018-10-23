@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dy/flip-pixels.svg?branch=master)](https://travis-ci.org/dy/flip-pixels)
+
 Flip pixels after `gl.readTexture`:
 
 ```js
@@ -13,4 +15,4 @@ flip(pixels, w, h)
 
 Based on [this question](https://stackoverflow.com/questions/41969562/how-can-i-flip-the-result-of-webglrenderingcontext-readpixels).
 
-## © dy
+See also [clip-pixels](https://ghub.io/clip-pixels).
